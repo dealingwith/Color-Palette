@@ -1,0 +1,5 @@
+A bookmarklet for displayed the color palette of any given page. I'm not really sure the state of this code. I just tested it again and it seems to work as expected. I've had it sitting around for a while...I created it during the many months that the Firefox Colorzilla extension hadn't been updated for the latest (at the time) version of Firefox. You should check out Colorzilla as it is now updated and has many more features: http://www.colorzilla.com/firefox/ ...However if you're in another browser and just want a quick peek at the color palette of a page, this guy works great. 
+
+As is apparent, the bookmarklet link example (in color_palette_bookmarklet.html) has a URL to my sugarfilled.com domain. I make no promises I will maintain that link, so if you want to use this bookmarklet reliably, I suggest installing it on your own server. 
+
+If you do want to risk it, you can just drag the link on this page into your bookmarks: http://sugarfilled.com/palette/color_palette_bookmarklet.html
